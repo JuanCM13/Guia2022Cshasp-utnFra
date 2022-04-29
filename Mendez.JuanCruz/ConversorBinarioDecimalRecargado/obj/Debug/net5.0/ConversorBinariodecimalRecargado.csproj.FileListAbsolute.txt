@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorBinarioDecimalRecargado\bin\Debug\net5.0\ConversorBinariodecimalRecargado.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorBinarioDecimalRecargado\bin\Debug\net5.0\ConversorBinariodecimalRecargado.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorBinarioDecimalRecargado\bin\Debug\net5.0\ref\ConversorBinariodecimalRecargado.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorBinarioDecimalRecargado\bin\Debug\net5.0\ConversorBinariodecimalRecargado.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorBinarioDecimalRecargado\obj\Debug\net5.0\ConversorBinariodecimalRecargado.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorBinarioDecimalRecargado\obj\Debug\net5.0\ConversorBinariodecimalRecargado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorBinarioDecimalRecargado\obj\Debug\net5.0\ConversorBinariodecimalRecargado.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorBinarioDecimalRecargado\obj\Debug\net5.0\ConversorBinariodecimalRecargado.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorBinarioDecimalRecargado\obj\Debug\net5.0\ConversorBinariodecimalRecargado.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorBinarioDecimalRecargado\obj\Debug\net5.0\ConversorBinariodecimalRecargado.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorBinarioDecimalRecargado\obj\Debug\net5.0\ref\ConversorBinariodecimalRecargado.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorBinarioDecimalRecargado\obj\Debug\net5.0\ConversorBinariodecimalRecargado.pdb

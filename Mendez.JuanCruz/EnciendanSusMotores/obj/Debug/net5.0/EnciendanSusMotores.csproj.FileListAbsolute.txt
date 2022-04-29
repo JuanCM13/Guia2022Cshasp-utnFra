@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\EnciendanSusMotores\bin\Debug\net5.0\EnciendanSusMotores.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\EnciendanSusMotores\bin\Debug\net5.0\EnciendanSusMotores.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EnciendanSusMotores\bin\Debug\net5.0\ref\EnciendanSusMotores.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EnciendanSusMotores\bin\Debug\net5.0\EnciendanSusMotores.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\EnciendanSusMotores\obj\Debug\net5.0\EnciendanSusMotores.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\EnciendanSusMotores\obj\Debug\net5.0\EnciendanSusMotores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\EnciendanSusMotores\obj\Debug\net5.0\EnciendanSusMotores.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\EnciendanSusMotores\obj\Debug\net5.0\EnciendanSusMotores.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\EnciendanSusMotores\obj\Debug\net5.0\EnciendanSusMotores.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\EnciendanSusMotores\obj\Debug\net5.0\EnciendanSusMotores.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EnciendanSusMotores\obj\Debug\net5.0\ref\EnciendanSusMotores.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EnciendanSusMotores\obj\Debug\net5.0\EnciendanSusMotores.pdb

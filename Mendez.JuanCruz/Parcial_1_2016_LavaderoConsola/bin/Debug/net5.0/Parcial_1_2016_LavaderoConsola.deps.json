@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Parcial_1_2016_LavaderoConsola/1.0.0": {
+        "dependencies": {
+          "Parcial_1_2016_LavaderoBiblioteca": "1.0.0"
+        },
+        "runtime": {
+          "Parcial_1_2016_LavaderoConsola.dll": {}
+        }
+      },
+      "Parcial_1_2016_LavaderoBiblioteca/1.0.0": {
+        "runtime": {
+          "Parcial_1_2016_LavaderoBiblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parcial_1_2016_LavaderoConsola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Parcial_1_2016_LavaderoBiblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

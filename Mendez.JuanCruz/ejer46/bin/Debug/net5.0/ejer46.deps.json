@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer46/1.0.0": {
+        "dependencies": {
+          "EnciendanSusMotores2.0": "1.0.0"
+        },
+        "runtime": {
+          "ejer46.dll": {}
+        }
+      },
+      "EnciendanSusMotores2.0/1.0.0": {
+        "runtime": {
+          "EnciendanSusMotores2.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer46/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EnciendanSusMotores2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

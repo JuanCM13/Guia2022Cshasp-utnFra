@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\EntidadesClase5Tinta\bin\Debug\net5.0\EntidadesClase7Tinta.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\EntidadesClase5Tinta\bin\Debug\net5.0\EntidadesClase7Tinta.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EntidadesClase5Tinta\bin\Debug\net5.0\ref\EntidadesClase7Tinta.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EntidadesClase5Tinta\bin\Debug\net5.0\EntidadesClase7Tinta.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\EntidadesClase5Tinta\obj\Debug\net5.0\EntidadesClase7Tinta.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\EntidadesClase5Tinta\obj\Debug\net5.0\EntidadesClase7Tinta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\EntidadesClase5Tinta\obj\Debug\net5.0\EntidadesClase7Tinta.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\EntidadesClase5Tinta\obj\Debug\net5.0\EntidadesClase7Tinta.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\EntidadesClase5Tinta\obj\Debug\net5.0\EntidadesClase7Tinta.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\EntidadesClase5Tinta\obj\Debug\net5.0\EntidadesClase7Tinta.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EntidadesClase5Tinta\obj\Debug\net5.0\ref\EntidadesClase7Tinta.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EntidadesClase5Tinta\obj\Debug\net5.0\EntidadesClase7Tinta.pdb

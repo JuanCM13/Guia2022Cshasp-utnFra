@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\Veterinaria\bin\Debug\net5.0\Veterinaria.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\Veterinaria\bin\Debug\net5.0\Veterinaria.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Veterinaria\bin\Debug\net5.0\ref\Veterinaria.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Veterinaria\bin\Debug\net5.0\Veterinaria.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\Veterinaria\obj\Debug\net5.0\Veterinaria.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Veterinaria\obj\Debug\net5.0\Veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\Veterinaria\obj\Debug\net5.0\Veterinaria.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Veterinaria\obj\Debug\net5.0\Veterinaria.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\Veterinaria\obj\Debug\net5.0\Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Veterinaria\obj\Debug\net5.0\Veterinaria.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Veterinaria\obj\Debug\net5.0\ref\Veterinaria.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Veterinaria\obj\Debug\net5.0\Veterinaria.pdb

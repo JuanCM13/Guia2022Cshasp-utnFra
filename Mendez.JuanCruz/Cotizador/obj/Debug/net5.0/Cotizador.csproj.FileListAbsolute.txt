@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\Cotizador\bin\Debug\net5.0\Cotizador.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\Cotizador\bin\Debug\net5.0\Cotizador.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Cotizador\bin\Debug\net5.0\ref\Cotizador.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Cotizador\bin\Debug\net5.0\Cotizador.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\Cotizador\obj\Debug\net5.0\Cotizador.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Cotizador\obj\Debug\net5.0\Cotizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\Cotizador\obj\Debug\net5.0\Cotizador.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Cotizador\obj\Debug\net5.0\Cotizador.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\Cotizador\obj\Debug\net5.0\Cotizador.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Cotizador\obj\Debug\net5.0\Cotizador.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Cotizador\obj\Debug\net5.0\ref\Cotizador.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Cotizador\obj\Debug\net5.0\Cotizador.pdb

@@ -1,0 +1,21 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\obj\Debug\net5.0-windows\ejer 32.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\obj\Debug\net5.0-windows\ejer_32.FormPrincipal.resources
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\obj\Debug\net5.0-windows\ejer 32.csproj.GenerateResource.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\obj\Debug\net5.0-windows\ejer 32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\obj\Debug\net5.0-windows\ejer 32.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\obj\Debug\net5.0-windows\ejer 32.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\obj\Debug\net5.0-windows\ejer 32.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\bin\Debug\net5.0-windows\ejer 32.exe
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\bin\Debug\net5.0-windows\ejer 32.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\bin\Debug\net5.0-windows\ejer 32.runtimeconfig.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\bin\Debug\net5.0-windows\ejer 32.runtimeconfig.dev.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\bin\Debug\net5.0-windows\ejer 32.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\bin\Debug\net5.0-windows\ref\ejer 32.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\bin\Debug\net5.0-windows\ejer 32.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\bin\Debug\net5.0-windows\Ingresante.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\bin\Debug\net5.0-windows\Ingresante.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\obj\Debug\net5.0-windows\ejer 32.csproj.CopyComplete
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\obj\Debug\net5.0-windows\ejer 32.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\obj\Debug\net5.0-windows\ref\ejer 32.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\obj\Debug\net5.0-windows\ejer 32.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer 32\obj\Debug\net5.0-windows\ejer 32.genruntimeconfig.cache

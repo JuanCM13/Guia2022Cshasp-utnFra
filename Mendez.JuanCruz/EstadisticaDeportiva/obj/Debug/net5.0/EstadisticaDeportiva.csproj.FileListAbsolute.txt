@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstadisticaDeportiva\bin\Debug\net5.0\EstadisticaDeportiva.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstadisticaDeportiva\bin\Debug\net5.0\EstadisticaDeportiva.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstadisticaDeportiva\bin\Debug\net5.0\ref\EstadisticaDeportiva.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstadisticaDeportiva\bin\Debug\net5.0\EstadisticaDeportiva.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstadisticaDeportiva\obj\Debug\net5.0\EstadisticaDeportiva.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstadisticaDeportiva\obj\Debug\net5.0\EstadisticaDeportiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstadisticaDeportiva\obj\Debug\net5.0\EstadisticaDeportiva.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstadisticaDeportiva\obj\Debug\net5.0\EstadisticaDeportiva.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstadisticaDeportiva\obj\Debug\net5.0\EstadisticaDeportiva.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstadisticaDeportiva\obj\Debug\net5.0\EstadisticaDeportiva.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstadisticaDeportiva\obj\Debug\net5.0\ref\EstadisticaDeportiva.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EstadisticaDeportiva\obj\Debug\net5.0\EstadisticaDeportiva.pdb

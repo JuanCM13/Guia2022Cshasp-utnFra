@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer42/1.0.0": {
+        "dependencies": {
+          "LibroIndexado": "1.0.0"
+        },
+        "runtime": {
+          "ejer42.dll": {}
+        }
+      },
+      "LibroIndexado/1.0.0": {
+        "runtime": {
+          "LibroIndexado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer42/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibroIndexado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

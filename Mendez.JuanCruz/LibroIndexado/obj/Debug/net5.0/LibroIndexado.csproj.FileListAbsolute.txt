@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\LibroIndexado\bin\Debug\net5.0\LibroIndexado.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\LibroIndexado\bin\Debug\net5.0\LibroIndexado.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\LibroIndexado\bin\Debug\net5.0\ref\LibroIndexado.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\LibroIndexado\bin\Debug\net5.0\LibroIndexado.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\LibroIndexado\obj\Debug\net5.0\LibroIndexado.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\LibroIndexado\obj\Debug\net5.0\LibroIndexado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\LibroIndexado\obj\Debug\net5.0\LibroIndexado.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\LibroIndexado\obj\Debug\net5.0\LibroIndexado.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\LibroIndexado\obj\Debug\net5.0\LibroIndexado.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\LibroIndexado\obj\Debug\net5.0\LibroIndexado.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\LibroIndexado\obj\Debug\net5.0\ref\LibroIndexado.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\LibroIndexado\obj\Debug\net5.0\LibroIndexado.pdb

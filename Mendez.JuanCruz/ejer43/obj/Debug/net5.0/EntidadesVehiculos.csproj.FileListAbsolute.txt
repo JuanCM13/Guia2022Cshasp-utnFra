@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer43\bin\Debug\net5.0\EntidadesVehiculos.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer43\bin\Debug\net5.0\EntidadesVehiculos.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer43\bin\Debug\net5.0\ref\EntidadesVehiculos.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer43\bin\Debug\net5.0\EntidadesVehiculos.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer43\obj\Debug\net5.0\EntidadesVehiculos.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer43\obj\Debug\net5.0\EntidadesVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer43\obj\Debug\net5.0\EntidadesVehiculos.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer43\obj\Debug\net5.0\EntidadesVehiculos.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer43\obj\Debug\net5.0\EntidadesVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer43\obj\Debug\net5.0\EntidadesVehiculos.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer43\obj\Debug\net5.0\ref\EntidadesVehiculos.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer43\obj\Debug\net5.0\EntidadesVehiculos.pdb

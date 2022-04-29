@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejerr29/1.0.0": {
+        "dependencies": {
+          "Estanteria": "1.0.0"
+        },
+        "runtime": {
+          "ejerr29.dll": {}
+        }
+      },
+      "Estanteria/1.0.0": {
+        "runtime": {
+          "Estanteria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejerr29/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Estanteria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

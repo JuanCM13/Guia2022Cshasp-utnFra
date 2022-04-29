@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer 32/1.0.0": {
+        "dependencies": {
+          "Ingresante": "1.0.0"
+        },
+        "runtime": {
+          "ejer 32.dll": {}
+        }
+      },
+      "Ingresante/1.0.0": {
+        "runtime": {
+          "Ingresante.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer 32/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ingresante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

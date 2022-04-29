@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FrmTest/1.0.0": {
+        "dependencies": {
+          "Parcial_Labo1_LaLibreria_Biblioteca": "1.0.0"
+        },
+        "runtime": {
+          "FrmTest.dll": {}
+        }
+      },
+      "Parcial_Labo1_LaLibreria_Biblioteca/1.0.0": {
+        "runtime": {
+          "Parcial_Labo1_LaLibreria_Biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FrmTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Parcial_Labo1_LaLibreria_Biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

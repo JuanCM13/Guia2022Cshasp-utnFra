@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejercicioClase8InstrumentosMusicales/1.0.0": {
+        "dependencies": {
+          "InstrumentosMusicales": "1.0.0"
+        },
+        "runtime": {
+          "ejercicioClase8InstrumentosMusicales.dll": {}
+        }
+      },
+      "InstrumentosMusicales/1.0.0": {
+        "runtime": {
+          "InstrumentosMusicales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejercicioClase8InstrumentosMusicales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InstrumentosMusicales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

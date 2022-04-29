@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_Dispositivos_Biblioteca\bin\Debug\net5.0\Parcial_Labo1_Dispositivos_Biblioteca.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_Dispositivos_Biblioteca\bin\Debug\net5.0\Parcial_Labo1_Dispositivos_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_Dispositivos_Biblioteca\bin\Debug\net5.0\ref\Parcial_Labo1_Dispositivos_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_Dispositivos_Biblioteca\bin\Debug\net5.0\Parcial_Labo1_Dispositivos_Biblioteca.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_Dispositivos_Biblioteca\obj\Debug\net5.0\Parcial_Labo1_Dispositivos_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_Dispositivos_Biblioteca\obj\Debug\net5.0\Parcial_Labo1_Dispositivos_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_Dispositivos_Biblioteca\obj\Debug\net5.0\Parcial_Labo1_Dispositivos_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_Dispositivos_Biblioteca\obj\Debug\net5.0\Parcial_Labo1_Dispositivos_Biblioteca.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_Dispositivos_Biblioteca\obj\Debug\net5.0\Parcial_Labo1_Dispositivos_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_Dispositivos_Biblioteca\obj\Debug\net5.0\Parcial_Labo1_Dispositivos_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_Dispositivos_Biblioteca\obj\Debug\net5.0\ref\Parcial_Labo1_Dispositivos_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_Dispositivos_Biblioteca\obj\Debug\net5.0\Parcial_Labo1_Dispositivos_Biblioteca.pdb

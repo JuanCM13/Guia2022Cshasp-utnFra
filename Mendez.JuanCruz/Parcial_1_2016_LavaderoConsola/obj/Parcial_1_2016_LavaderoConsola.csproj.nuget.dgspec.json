@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Parcial_1_2016_LavaderoConsola\\Parcial_1_2016_LavaderoConsola.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Parcial_1_2016_LavaderoConsola\\Parcial_1_2016_LavaderoConsola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Parcial_1_2016_LavaderoConsola\\Parcial_1_2016_LavaderoConsola.csproj",
+        "projectName": "Parcial_1_2016_LavaderoConsola",
+        "projectPath": "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Parcial_1_2016_LavaderoConsola\\Parcial_1_2016_LavaderoConsola.csproj",
+        "packagesPath": "C:\\Users\\caand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Parcial_1_2016_LavaderoConsola\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\caand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Parcial_1_2016_LavaderoVehiculos\\Parcial_1_2016_LavaderoBiblioteca.csproj": {
+                "projectPath": "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Parcial_1_2016_LavaderoVehiculos\\Parcial_1_2016_LavaderoBiblioteca.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Parcial_1_2016_LavaderoVehiculos\\Parcial_1_2016_LavaderoBiblioteca.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Parcial_1_2016_LavaderoVehiculos\\Parcial_1_2016_LavaderoBiblioteca.csproj",
+        "projectName": "Parcial_1_2016_LavaderoBiblioteca",
+        "projectPath": "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Parcial_1_2016_LavaderoVehiculos\\Parcial_1_2016_LavaderoBiblioteca.csproj",
+        "packagesPath": "C:\\Users\\caand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Parcial_1_2016_LavaderoVehiculos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\caand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

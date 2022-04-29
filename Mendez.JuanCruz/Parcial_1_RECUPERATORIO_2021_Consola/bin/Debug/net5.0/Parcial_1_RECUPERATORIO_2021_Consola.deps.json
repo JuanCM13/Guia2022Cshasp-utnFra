@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Parcial_1_RECUPERATORIO_2021_Consola/1.0.0": {
+        "dependencies": {
+          "Parcial_1_RECUPERATORIO_2021_Biblioteca": "1.0.0"
+        },
+        "runtime": {
+          "Parcial_1_RECUPERATORIO_2021_Consola.dll": {}
+        }
+      },
+      "Parcial_1_RECUPERATORIO_2021_Biblioteca/1.0.0": {
+        "runtime": {
+          "Parcial_1_RECUPERATORIO_2021_Biblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parcial_1_RECUPERATORIO_2021_Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Parcial_1_RECUPERATORIO_2021_Biblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

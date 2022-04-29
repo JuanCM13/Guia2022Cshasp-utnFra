@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer39/1.0.0": {
+        "dependencies": {
+          "EstadisticaDeportiva": "1.0.0"
+        },
+        "runtime": {
+          "ejer39.dll": {}
+        }
+      },
+      "EstadisticaDeportiva/1.0.0": {
+        "runtime": {
+          "EstadisticaDeportiva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer39/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EstadisticaDeportiva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

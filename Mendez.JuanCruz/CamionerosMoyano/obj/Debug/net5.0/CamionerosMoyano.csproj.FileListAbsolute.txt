@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\CamionerosMoyano\bin\Debug\net5.0\CamionerosMoyano.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\CamionerosMoyano\bin\Debug\net5.0\CamionerosMoyano.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\CamionerosMoyano\bin\Debug\net5.0\ref\CamionerosMoyano.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\CamionerosMoyano\bin\Debug\net5.0\CamionerosMoyano.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\CamionerosMoyano\obj\Debug\net5.0\CamionerosMoyano.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\CamionerosMoyano\obj\Debug\net5.0\CamionerosMoyano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\CamionerosMoyano\obj\Debug\net5.0\CamionerosMoyano.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\CamionerosMoyano\obj\Debug\net5.0\CamionerosMoyano.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\CamionerosMoyano\obj\Debug\net5.0\CamionerosMoyano.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\CamionerosMoyano\obj\Debug\net5.0\CamionerosMoyano.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\CamionerosMoyano\obj\Debug\net5.0\ref\CamionerosMoyano.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\CamionerosMoyano\obj\Debug\net5.0\CamionerosMoyano.pdb

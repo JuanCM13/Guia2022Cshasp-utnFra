@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer24/1.0.0": {
+        "dependencies": {
+          "CamionerosMoyano": "1.0.0"
+        },
+        "runtime": {
+          "ejer24.dll": {}
+        }
+      },
+      "CamionerosMoyano/1.0.0": {
+        "runtime": {
+          "CamionerosMoyano.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer24/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CamionerosMoyano/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\bin\Debug\net5.0\ejercicioClaseshechoEnClase.exe
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\bin\Debug\net5.0\ejercicioClaseshechoEnClase.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\bin\Debug\net5.0\ejercicioClaseshechoEnClase.runtimeconfig.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\bin\Debug\net5.0\ejercicioClaseshechoEnClase.runtimeconfig.dev.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\bin\Debug\net5.0\ejercicioClaseshechoEnClase.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\bin\Debug\net5.0\ref\ejercicioClaseshechoEnClase.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\bin\Debug\net5.0\ejercicioClaseshechoEnClase.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\obj\Debug\net5.0\ejercicioClaseshechoEnClase.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\obj\Debug\net5.0\ejercicioClaseshechoEnClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\obj\Debug\net5.0\ejercicioClaseshechoEnClase.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\obj\Debug\net5.0\ejercicioClaseshechoEnClase.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\obj\Debug\net5.0\ejercicioClaseshechoEnClase.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\obj\Debug\net5.0\ejercicioClaseshechoEnClase.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\obj\Debug\net5.0\ref\ejercicioClaseshechoEnClase.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\obj\Debug\net5.0\ejercicioClaseshechoEnClase.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejercicioClaseshechoEnClase\obj\Debug\net5.0\ejercicioClaseshechoEnClase.genruntimeconfig.cache

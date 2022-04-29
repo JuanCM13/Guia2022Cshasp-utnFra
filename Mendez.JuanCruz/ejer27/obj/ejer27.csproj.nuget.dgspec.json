@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\ejer27\\ejer27.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Cotizador\\Cotizador.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Cotizador\\Cotizador.csproj",
+        "projectName": "Cotizador",
+        "projectPath": "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Cotizador\\Cotizador.csproj",
+        "packagesPath": "C:\\Users\\caand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Cotizador\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\caand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\ejer27\\ejer27.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\ejer27\\ejer27.csproj",
+        "projectName": "ejer27",
+        "projectPath": "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\ejer27\\ejer27.csproj",
+        "packagesPath": "C:\\Users\\caand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\ejer27\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\caand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Cotizador\\Cotizador.csproj": {
+                "projectPath": "C:\\Users\\caand\\source\\repos\\Mendez.JuanCruz\\Cotizador\\Cotizador.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

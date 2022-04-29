@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Parcial_1_RECUPERATORIO_2021_Biblioteca\Parcial_1_RECUPERATORIO_2021_Biblioteca.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\bin\Debug\net5.0\ejer20PostaElOtroNoCompila.exe
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\bin\Debug\net5.0\ejer20PostaElOtroNoCompila.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\bin\Debug\net5.0\ejer20PostaElOtroNoCompila.runtimeconfig.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\bin\Debug\net5.0\ejer20PostaElOtroNoCompila.runtimeconfig.dev.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\bin\Debug\net5.0\ejer20PostaElOtroNoCompila.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\bin\Debug\net5.0\ref\ejer20PostaElOtroNoCompila.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\bin\Debug\net5.0\ejer20PostaElOtroNoCompila.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\obj\Debug\net5.0\ejer20PostaElOtroNoCompila.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\obj\Debug\net5.0\ejer20PostaElOtroNoCompila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\obj\Debug\net5.0\ejer20PostaElOtroNoCompila.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\obj\Debug\net5.0\ejer20PostaElOtroNoCompila.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\obj\Debug\net5.0\ejer20PostaElOtroNoCompila.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\obj\Debug\net5.0\ejer20PostaElOtroNoCompila.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\obj\Debug\net5.0\ref\ejer20PostaElOtroNoCompila.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\obj\Debug\net5.0\ejer20PostaElOtroNoCompila.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20PostaElOtroNoCompila\obj\Debug\net5.0\ejer20PostaElOtroNoCompila.genruntimeconfig.cache

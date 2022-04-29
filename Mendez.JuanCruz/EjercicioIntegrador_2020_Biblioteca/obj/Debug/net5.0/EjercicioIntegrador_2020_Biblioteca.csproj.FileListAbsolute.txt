@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\EjercicioIntegrador_2020_Biblioteca\bin\Debug\net5.0\EjercicioIntegrador_2020_Biblioteca.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\EjercicioIntegrador_2020_Biblioteca\bin\Debug\net5.0\EjercicioIntegrador_2020_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EjercicioIntegrador_2020_Biblioteca\bin\Debug\net5.0\ref\EjercicioIntegrador_2020_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EjercicioIntegrador_2020_Biblioteca\bin\Debug\net5.0\EjercicioIntegrador_2020_Biblioteca.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\EjercicioIntegrador_2020_Biblioteca\obj\Debug\net5.0\EjercicioIntegrador_2020_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\EjercicioIntegrador_2020_Biblioteca\obj\Debug\net5.0\EjercicioIntegrador_2020_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\EjercicioIntegrador_2020_Biblioteca\obj\Debug\net5.0\EjercicioIntegrador_2020_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\EjercicioIntegrador_2020_Biblioteca\obj\Debug\net5.0\EjercicioIntegrador_2020_Biblioteca.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\EjercicioIntegrador_2020_Biblioteca\obj\Debug\net5.0\EjercicioIntegrador_2020_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\EjercicioIntegrador_2020_Biblioteca\obj\Debug\net5.0\EjercicioIntegrador_2020_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EjercicioIntegrador_2020_Biblioteca\obj\Debug\net5.0\ref\EjercicioIntegrador_2020_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\EjercicioIntegrador_2020_Biblioteca\obj\Debug\net5.0\EjercicioIntegrador_2020_Biblioteca.pdb

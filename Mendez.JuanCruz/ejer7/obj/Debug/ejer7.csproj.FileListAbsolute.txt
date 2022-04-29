@@ -1,0 +1,7 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer7\bin\Debug\ejer7.exe.config
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer7\bin\Debug\ejer7.exe
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer7\bin\Debug\ejer7.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer7\obj\Debug\ejer7.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer7\obj\Debug\ejer7.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer7\obj\Debug\ejer7.exe
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer7\obj\Debug\ejer7.pdb

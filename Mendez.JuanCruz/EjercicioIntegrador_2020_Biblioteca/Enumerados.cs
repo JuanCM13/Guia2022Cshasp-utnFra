@@ -1,0 +1,2 @@
+﻿public enum eTipoCliente { PoliticoCorrupto,EmpresarioCorructo,JugadorDeFutbol,Financista,SinTipo} 
+public enum eParaisosFiscales { Anguila,Belice,Delawere,Gibraltar,Hong_Kong,Mauricio,Panama,Saychelles,Singapur,Suiza}

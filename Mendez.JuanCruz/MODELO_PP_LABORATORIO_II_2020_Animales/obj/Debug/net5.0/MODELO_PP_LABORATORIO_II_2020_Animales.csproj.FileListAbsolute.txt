@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\MODELO_PP_LABORATORIO_II_2020_Animales\bin\Debug\net5.0\MODELO_PP_LABORATORIO_II_2020_Animales.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\MODELO_PP_LABORATORIO_II_2020_Animales\bin\Debug\net5.0\MODELO_PP_LABORATORIO_II_2020_Animales.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\MODELO_PP_LABORATORIO_II_2020_Animales\bin\Debug\net5.0\ref\MODELO_PP_LABORATORIO_II_2020_Animales.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\MODELO_PP_LABORATORIO_II_2020_Animales\bin\Debug\net5.0\MODELO_PP_LABORATORIO_II_2020_Animales.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\MODELO_PP_LABORATORIO_II_2020_Animales\obj\Debug\net5.0\MODELO_PP_LABORATORIO_II_2020_Animales.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\MODELO_PP_LABORATORIO_II_2020_Animales\obj\Debug\net5.0\MODELO_PP_LABORATORIO_II_2020_Animales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\MODELO_PP_LABORATORIO_II_2020_Animales\obj\Debug\net5.0\MODELO_PP_LABORATORIO_II_2020_Animales.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\MODELO_PP_LABORATORIO_II_2020_Animales\obj\Debug\net5.0\MODELO_PP_LABORATORIO_II_2020_Animales.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\MODELO_PP_LABORATORIO_II_2020_Animales\obj\Debug\net5.0\MODELO_PP_LABORATORIO_II_2020_Animales.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\MODELO_PP_LABORATORIO_II_2020_Animales\obj\Debug\net5.0\MODELO_PP_LABORATORIO_II_2020_Animales.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\MODELO_PP_LABORATORIO_II_2020_Animales\obj\Debug\net5.0\ref\MODELO_PP_LABORATORIO_II_2020_Animales.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\MODELO_PP_LABORATORIO_II_2020_Animales\obj\Debug\net5.0\MODELO_PP_LABORATORIO_II_2020_Animales.pdb

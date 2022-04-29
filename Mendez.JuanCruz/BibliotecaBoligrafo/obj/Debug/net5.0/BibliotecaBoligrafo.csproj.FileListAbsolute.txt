@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaBoligrafo\bin\Debug\net5.0\BibliotecaBoligrafo.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaBoligrafo\bin\Debug\net5.0\BibliotecaBoligrafo.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaBoligrafo\bin\Debug\net5.0\ref\BibliotecaBoligrafo.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaBoligrafo\bin\Debug\net5.0\BibliotecaBoligrafo.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaBoligrafo\obj\Debug\net5.0\BibliotecaBoligrafo.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaBoligrafo\obj\Debug\net5.0\BibliotecaBoligrafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaBoligrafo\obj\Debug\net5.0\BibliotecaBoligrafo.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaBoligrafo\obj\Debug\net5.0\BibliotecaBoligrafo.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaBoligrafo\obj\Debug\net5.0\BibliotecaBoligrafo.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaBoligrafo\obj\Debug\net5.0\BibliotecaBoligrafo.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaBoligrafo\obj\Debug\net5.0\ref\BibliotecaBoligrafo.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\BibliotecaBoligrafo\obj\Debug\net5.0\BibliotecaBoligrafo.pdb

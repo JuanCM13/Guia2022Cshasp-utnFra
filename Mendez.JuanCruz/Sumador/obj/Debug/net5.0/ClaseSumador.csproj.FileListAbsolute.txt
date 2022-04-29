@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\Sumador\bin\Debug\net5.0\ClaseSumador.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\Sumador\bin\Debug\net5.0\ClaseSumador.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Sumador\bin\Debug\net5.0\ref\ClaseSumador.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Sumador\bin\Debug\net5.0\ClaseSumador.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\Sumador\obj\Debug\net5.0\ClaseSumador.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Sumador\obj\Debug\net5.0\ClaseSumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\Sumador\obj\Debug\net5.0\ClaseSumador.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Sumador\obj\Debug\net5.0\ClaseSumador.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\Sumador\obj\Debug\net5.0\ClaseSumador.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Sumador\obj\Debug\net5.0\ClaseSumador.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Sumador\obj\Debug\net5.0\ref\ClaseSumador.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Sumador\obj\Debug\net5.0\ClaseSumador.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer30/1.0.0": {
+        "dependencies": {
+          "ConversorTemperaturas": "1.0.0"
+        },
+        "runtime": {
+          "ejer30.dll": {}
+        }
+      },
+      "ConversorTemperaturas/1.0.0": {
+        "runtime": {
+          "ConversorTemperaturas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer30/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConversorTemperaturas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

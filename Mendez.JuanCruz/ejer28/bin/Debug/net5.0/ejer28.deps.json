@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer28/1.0.0": {
+        "dependencies": {
+          "ConversorBinariodecimalRecargado": "1.0.0"
+        },
+        "runtime": {
+          "ejer28.dll": {}
+        }
+      },
+      "ConversorBinariodecimalRecargado/1.0.0": {
+        "runtime": {
+          "ConversorBinariodecimalRecargado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer28/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConversorBinariodecimalRecargado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\bin\Debug\net5.0\clase4ejercicioSobrecargas.exe
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\bin\Debug\net5.0\clase4ejercicioSobrecargas.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\bin\Debug\net5.0\clase4ejercicioSobrecargas.runtimeconfig.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\bin\Debug\net5.0\clase4ejercicioSobrecargas.runtimeconfig.dev.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\bin\Debug\net5.0\clase4ejercicioSobrecargas.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\bin\Debug\net5.0\ref\clase4ejercicioSobrecargas.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\bin\Debug\net5.0\clase4ejercicioSobrecargas.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\obj\Debug\net5.0\clase4ejercicioSobrecargas.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\obj\Debug\net5.0\clase4ejercicioSobrecargas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\obj\Debug\net5.0\clase4ejercicioSobrecargas.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\obj\Debug\net5.0\clase4ejercicioSobrecargas.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\obj\Debug\net5.0\clase4ejercicioSobrecargas.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\obj\Debug\net5.0\clase4ejercicioSobrecargas.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\obj\Debug\net5.0\ref\clase4ejercicioSobrecargas.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\obj\Debug\net5.0\clase4ejercicioSobrecargas.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\clase4ejercicioSobrecargas\obj\Debug\net5.0\clase4ejercicioSobrecargas.genruntimeconfig.cache

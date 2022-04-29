@@ -1,0 +1,9 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20\bin\Debug\net5.0\ejer20.exe
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20\obj\Debug\net5.0\ejer20.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20\obj\Debug\net5.0\ejer20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20\obj\Debug\net5.0\ejer20.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20\obj\Debug\net5.0\ejer20.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20\obj\Debug\net5.0\ejer20.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20\obj\Debug\net5.0\ejer20.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20\obj\Debug\net5.0\ref\ejer20.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer20\obj\Debug\net5.0\ejer20.pdb

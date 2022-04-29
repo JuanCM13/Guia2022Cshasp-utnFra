@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_1_2021\bin\Debug\net5.0\Parcial_1_2021_Biblioteca.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_1_2021\bin\Debug\net5.0\Parcial_1_2021_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_1_2021\bin\Debug\net5.0\ref\Parcial_1_2021_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_1_2021\bin\Debug\net5.0\Parcial_1_2021_Biblioteca.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_1_2021\obj\Debug\net5.0\Parcial_1_2021_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_1_2021\obj\Debug\net5.0\Parcial_1_2021_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_1_2021\obj\Debug\net5.0\Parcial_1_2021_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_1_2021\obj\Debug\net5.0\Parcial_1_2021_Biblioteca.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_1_2021\obj\Debug\net5.0\Parcial_1_2021_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_1_2021\obj\Debug\net5.0\Parcial_1_2021_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_1_2021\obj\Debug\net5.0\ref\Parcial_1_2021_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_1_2021\obj\Debug\net5.0\Parcial_1_2021_Biblioteca.pdb

@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer29\bin\Debug\net5.0\Estanteria.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer29\bin\Debug\net5.0\Estanteria.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer29\bin\Debug\net5.0\ref\Estanteria.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer29\bin\Debug\net5.0\Estanteria.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer29\obj\Debug\net5.0\Estanteria.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer29\obj\Debug\net5.0\Estanteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer29\obj\Debug\net5.0\Estanteria.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer29\obj\Debug\net5.0\Estanteria.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer29\obj\Debug\net5.0\Estanteria.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer29\obj\Debug\net5.0\Estanteria.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer29\obj\Debug\net5.0\ref\Estanteria.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer29\obj\Debug\net5.0\Estanteria.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer41/1.0.0": {
+        "dependencies": {
+          "AtencionCliente": "1.0.0"
+        },
+        "runtime": {
+          "ejer41.dll": {}
+        }
+      },
+      "AtencionCliente/1.0.0": {
+        "runtime": {
+          "AtencionCliente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer41/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AtencionCliente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

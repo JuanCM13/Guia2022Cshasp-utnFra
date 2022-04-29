@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer22/1.0.0": {
+        "dependencies": {
+          "BibliotecaBoligrafo": "1.0.0"
+        },
+        "runtime": {
+          "ejer22.dll": {}
+        }
+      },
+      "BibliotecaBoligrafo/1.0.0": {
+        "runtime": {
+          "BibliotecaBoligrafo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaBoligrafo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

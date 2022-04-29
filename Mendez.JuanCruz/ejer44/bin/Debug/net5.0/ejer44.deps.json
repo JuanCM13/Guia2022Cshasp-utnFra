@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ejer44/1.0.0": {
+        "dependencies": {
+          "EntidadesVehiculos": "1.0.0"
+        },
+        "runtime": {
+          "ejer44.dll": {}
+        }
+      },
+      "EntidadesVehiculos/1.0.0": {
+        "runtime": {
+          "EntidadesVehiculos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejer44/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntidadesVehiculos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

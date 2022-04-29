@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MODELO_PP_LABORATORIO_2_Consola/1.0.0": {
+        "dependencies": {
+          "MODELO_PP_LABORATORIO_II_2020_Animales": "1.0.0"
+        },
+        "runtime": {
+          "MODELO_PP_LABORATORIO_2_Consola.dll": {}
+        }
+      },
+      "MODELO_PP_LABORATORIO_II_2020_Animales/1.0.0": {
+        "runtime": {
+          "MODELO_PP_LABORATORIO_II_2020_Animales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MODELO_PP_LABORATORIO_2_Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MODELO_PP_LABORATORIO_II_2020_Animales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorTemperaturas\bin\Debug\net5.0\ConversorTemperaturas.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorTemperaturas\bin\Debug\net5.0\ConversorTemperaturas.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorTemperaturas\bin\Debug\net5.0\ref\ConversorTemperaturas.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorTemperaturas\bin\Debug\net5.0\ConversorTemperaturas.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorTemperaturas\obj\Debug\net5.0\ConversorTemperaturas.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorTemperaturas\obj\Debug\net5.0\ConversorTemperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorTemperaturas\obj\Debug\net5.0\ConversorTemperaturas.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorTemperaturas\obj\Debug\net5.0\ConversorTemperaturas.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorTemperaturas\obj\Debug\net5.0\ConversorTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorTemperaturas\obj\Debug\net5.0\ConversorTemperaturas.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorTemperaturas\obj\Debug\net5.0\ref\ConversorTemperaturas.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ConversorTemperaturas\obj\Debug\net5.0\ConversorTemperaturas.pdb

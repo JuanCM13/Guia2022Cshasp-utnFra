@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_LaLibreria_Biblioteca\bin\Debug\net5.0\Parcial_Labo1_LaLibreria_Biblioteca.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_LaLibreria_Biblioteca\bin\Debug\net5.0\Parcial_Labo1_LaLibreria_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_LaLibreria_Biblioteca\bin\Debug\net5.0\ref\Parcial_Labo1_LaLibreria_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_LaLibreria_Biblioteca\bin\Debug\net5.0\Parcial_Labo1_LaLibreria_Biblioteca.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_LaLibreria_Biblioteca\obj\Debug\net5.0\Parcial_Labo1_LaLibreria_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_LaLibreria_Biblioteca\obj\Debug\net5.0\Parcial_Labo1_LaLibreria_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_LaLibreria_Biblioteca\obj\Debug\net5.0\Parcial_Labo1_LaLibreria_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_LaLibreria_Biblioteca\obj\Debug\net5.0\Parcial_Labo1_LaLibreria_Biblioteca.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_LaLibreria_Biblioteca\obj\Debug\net5.0\Parcial_Labo1_LaLibreria_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_LaLibreria_Biblioteca\obj\Debug\net5.0\Parcial_Labo1_LaLibreria_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_LaLibreria_Biblioteca\obj\Debug\net5.0\ref\Parcial_Labo1_LaLibreria_Biblioteca.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\Parcial_Labo1_LaLibreria_Biblioteca\obj\Debug\net5.0\Parcial_Labo1_LaLibreria_Biblioteca.pdb

@@ -1,0 +1,16 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\bin\Debug\net5.0\ejer6.exe
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\bin\Debug\net5.0\ejer6.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\bin\Debug\net5.0\ejer6.runtimeconfig.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\bin\Debug\net5.0\ejer6.runtimeconfig.dev.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\bin\Debug\net5.0\ejer6.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\bin\Debug\net5.0\ref\ejer6.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\bin\Debug\net5.0\ejer6.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\obj\Debug\net5.0\ejer6.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\obj\Debug\net5.0\ejer6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\obj\Debug\net5.0\ejer6.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\obj\Debug\net5.0\ejer6.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\obj\Debug\net5.0\ejer6.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\obj\Debug\net5.0\ejer6.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\obj\Debug\net5.0\ref\ejer6.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\obj\Debug\net5.0\ejer6.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\ejer6\obj\Debug\net5.0\ejer6.genruntimeconfig.cache

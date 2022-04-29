@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Mendez.JuanCruz\InstrumentosMusicales\bin\Debug\net5.0\InstrumentosMusicales.deps.json
+C:\Users\caand\source\repos\Mendez.JuanCruz\InstrumentosMusicales\bin\Debug\net5.0\InstrumentosMusicales.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\InstrumentosMusicales\bin\Debug\net5.0\ref\InstrumentosMusicales.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\InstrumentosMusicales\bin\Debug\net5.0\InstrumentosMusicales.pdb
+C:\Users\caand\source\repos\Mendez.JuanCruz\InstrumentosMusicales\obj\Debug\net5.0\InstrumentosMusicales.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\InstrumentosMusicales\obj\Debug\net5.0\InstrumentosMusicales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Mendez.JuanCruz\InstrumentosMusicales\obj\Debug\net5.0\InstrumentosMusicales.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\InstrumentosMusicales\obj\Debug\net5.0\InstrumentosMusicales.AssemblyInfo.cs
+C:\Users\caand\source\repos\Mendez.JuanCruz\InstrumentosMusicales\obj\Debug\net5.0\InstrumentosMusicales.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Mendez.JuanCruz\InstrumentosMusicales\obj\Debug\net5.0\InstrumentosMusicales.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\InstrumentosMusicales\obj\Debug\net5.0\ref\InstrumentosMusicales.dll
+C:\Users\caand\source\repos\Mendez.JuanCruz\InstrumentosMusicales\obj\Debug\net5.0\InstrumentosMusicales.pdb
